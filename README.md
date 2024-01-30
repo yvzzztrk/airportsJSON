@@ -1,3 +1,5 @@
+> :warning: **This file is OUTDATED**:
+
 # airportsJSON
 Openflight.org/data.html Airports JSON
 
